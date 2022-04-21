@@ -14,6 +14,7 @@ This application runs in the CLI (Command Line Interface) using node. The applic
   * [Usage](#usage)
   * [Contributing](#contributing)
   * [License](#license)
+  * [Credits](#credits)
   * [Questions](#questions)
 
 
