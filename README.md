@@ -5,7 +5,7 @@
 
 ## Description
 
-This application runs in the CLI (Command Line Interface) using node. The application prompts the user for information regarding employees and their respective roles and departments and updates the database accordingly.
+This is the backend of an e-commerce application that runs on node and mysql.
 
 
 **Table of Contents**
